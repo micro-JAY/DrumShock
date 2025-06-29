@@ -1,14 +1,7 @@
 # DrumShock - PS5 Controller to MIDI Converter
 
-Convert your PS5 DualSense controller into a MIDI drum pad for music production!
+Currently needs to be built via xCode
 
-## Features
-
-- Real-time PS5 controller input to MIDI output conversion
-- Pre-mapped drum kit layout optimized for finger drumming
-- Visual feedback for controller and MIDI connection status
-- Pressure-sensitive triggers for velocity control
-- Virtual MIDI output visible in any DAW
 
 ## Setup Instructions
 
