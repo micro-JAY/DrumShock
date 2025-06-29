@@ -30,4 +30,4 @@ fastlane/screenshots
 
 # Other
 *.moved-aside
-*.xcuserstate
+*.xcuserstate.DS_Store
